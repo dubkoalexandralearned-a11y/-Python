@@ -4,6 +4,8 @@
 
 Ссылка на 2ю работу в Google Collab: https://colab.research.google.com/drive/1ERPaIHPBtGRBasV3yFM2SXwq3C72Fyrc?usp=sharing
 
+Ссылка на 3ю работу в Google Collab: https://colab.research.google.com/drive/1EZVzH0taVZqImf1rgPiEZA_N6YJdHfky?usp=sharing
+
 Иерархический кластерный анализ
 Выполнила: Дубко Александра Владимировна (563297)
 1 курс (магистратура), M4181 группа
